@@ -1,0 +1,50 @@
+[
+  {
+    "document_id": "e14283e38b442e7d",
+    "file_name": "Academic_Integrity_and_Plagiarism_Policy.pdf",
+    "page_count": 7,
+    "extracted_character_count": 5287,
+    "sha256": "e14283e38b442e7d06d29a8886fcfd62bf9417aa1763aa07b381f9a3ffe8b013",
+    "source_type": "PDF"
+  },
+  {
+    "document_id": "34160c9f73d2b5f5",
+    "file_name": "Attendance_and_Academic_Participation_Policy.pdf",
+    "page_count": 7,
+    "extracted_character_count": 4593,
+    "sha256": "34160c9f73d2b5f5aac3aa7a7a211086bf9e648a8a2ec8aadfc61b0131d230b8",
+    "source_type": "PDF"
+  },
+  {
+    "document_id": "009a814e0afbfbee",
+    "file_name": "Course_Registration_and_Withdrawal_Policy.pdf",
+    "page_count": 7,
+    "extracted_character_count": 4232,
+    "sha256": "009a814e0afbfbeeca02ad4f5c86489eb02f9052f0eea1eba27ad0317aaf52a6",
+    "source_type": "PDF"
+  },
+  {
+    "document_id": "ad685c6e430842e3",
+    "file_name": "Examination_and_Assessment_Policy.pdf",
+    "page_count": 7,
+    "extracted_character_count": 4209,
+    "sha256": "ad685c6e430842e3d9b5491f964d0bde5633b4c174dec7a19da0a19f6e3215e0",
+    "source_type": "PDF"
+  },
+  {
+    "document_id": "4a1452888b7adf37",
+    "file_name": "Grading,_GPA_and_Academic_Progress_Policy.pdf",
+    "page_count": 7,
+    "extracted_character_count": 4159,
+    "sha256": "4a1452888b7adf37869c612d3155ab54302db3db961ec88faa43e5670aaeea7c",
+    "source_type": "PDF"
+  },
+  {
+    "document_id": "ddc8fef673790b8b",
+    "file_name": "Student_Code_of_Conduct_Policy.pdf",
+    "page_count": 7,
+    "extracted_character_count": 4269,
+    "sha256": "ddc8fef673790b8b390bc9ba9ba901d33bc760210b4a468523ed9daec9e9a6c4",
+    "source_type": "PDF"
+  }
+]

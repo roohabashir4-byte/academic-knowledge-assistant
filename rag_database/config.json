@@ -1,0 +1,16 @@
+{
+  "project_name": "academic-knowledge-assistant",
+  "database_version": "1.0",
+  "created_at_utc": "2026-09-16T16:08:18.129212+00:00",
+  "vector_database": "FAISS",
+  "faiss_index": "IndexFlatIP",
+  "similarity": "cosine_similarity",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_dimension": 384,
+  "normalized_embeddings": true,
+  "chunk_size": 900,
+  "chunk_overlap": 150,
+  "default_top_k": 5,
+  "document_count": 6,
+  "chunk_count": 48
+}
